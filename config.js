@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
+  url: 'https://longntran.netlify.com',
+  title: 'Blog by Long Tran',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-134267345-1',
   menu: [
     {
       label: 'Articles',
@@ -18,21 +18,23 @@ module.exports = {
       path: '/pages/about'
     },
     {
+      label: 'Portfolio',
+      path: '/pages/portfolio'
+    },
+    {
       label: 'Contact me',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Long Tran',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'If you believe strongly in something, stand up and fight for it.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'nhulongctk10@gmail.com',
+      telegram: 'longntran',
+      twitter: 'nhulongctk10',
+      github: 'nhulongctk10'
     }
   }
 };
