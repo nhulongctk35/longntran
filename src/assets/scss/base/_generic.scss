@@ -157,3 +157,59 @@ figcaption {
   }
 
 }
+
+
+@mixin single-tag {
+  display: inline-block;
+  background: #303030;
+  padding: 8px;
+  border-radius: 3px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.node {
+  @include single-tag;
+
+  background: #5b5ea6;
+}
+
+.react {
+  @include single-tag;
+  color: #61dafb;
+  background: #282c34
+}
+
+.next {
+  @include single-tag;
+
+  background: #282c34
+}
+
+.vue {
+  @include single-tag;
+
+  background: #00a591;
+}
+.js {
+  @include single-tag;
+  color: #000;
+  background: #ecdb54;
+}
+
+.git {
+  @include single-tag;
+
+  background: #dd4132;
+}
+
+.css {
+  @include single-tag;
+
+  background: #bc70a4;
+}
+.html {
+  @include single-tag;
+
+  background: #ce3175;
+}

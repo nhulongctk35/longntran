@@ -5,18 +5,16 @@ import Contacts from './Contacts';
 import Copyright from './Copyright';
 import Menu from './Menu';
 import styles from './Sidebar.module.scss';
+import Skills from './Skills';
 
 export const PureSidebar = ({ data, isIndex }) => {
-  const {
-    author,
-    copyright,
-    menu
-  } = data.site.siteMetadata;
+  const { author, copyright, menu } = data.site.siteMetadata;
 
   return (
     <div className={styles['sidebar']}>
       <div className={styles['sidebar__inner']}>
         <Author author={author} isIndex={isIndex} />
+        <Skills />
         <Menu menu={menu} />
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
@@ -25,7 +23,7 @@ export const PureSidebar = ({ data, isIndex }) => {
   );
 };
 
-export const Sidebar = (props) => (
+export const Sidebar = props => (
   <StaticQuery
     query={graphql`
       query SidebarQuery {
@@ -53,7 +51,7 @@ export const Sidebar = (props) => (
         }
       }
     `}
-    render={(data) => <PureSidebar {...props} data={data}/>}
+    render={data => <PureSidebar {...props} data={data} />}
   />
 );
 

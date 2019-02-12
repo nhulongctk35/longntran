@@ -13,9 +13,12 @@ This is an PSD to HTML conversion project. I convert the sketch file to HTML/CSS
 May 2018 - June 2018
 
 ###Tags
-tailwindcss, html, css3
+<a class="css" type="button">tailwindcss</a>
+<a class="html" type="button">html</a>
+<a class="css" type="button">css3</a>
 
 ###Source on the github
+
 View the source code on the [github](https://github.com/nhulongctk35/paybit)
 
 ##<a href="https://www.firma.de/" target="_blank">Firma.de</a>
@@ -28,7 +31,10 @@ into the blog post, by answering some questions. the user will figure out the pr
 Jan 2018 - May 2018
 
 ###Tags
-Next.js, React, html, sass
+<a class="next" type="button">Next.js</a>
+<a class="react" type="button">React</a>
+<a class="html" type="button">html</a>
+<a class="css" type="button">sass</a>
 
 ##<a href="https://my.globis.ac.jp/" target="_blank">Globis Student</a>
 ![Globis](/media/globis.png)
@@ -50,4 +56,7 @@ Revegy's sales effectiveness and relationship manager software simplify key acco
 March 2016 - Dec 2016
 
 ###Tags
-Ember.js, JQuery, html, css
+<a class="react" type="button">Ember.js</a>
+<a class="js" type="button">JQuery</a>
+<a class="html" type="button">html</a>
+<a class="css" type="button">css</a>
