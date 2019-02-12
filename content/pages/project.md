@@ -4,24 +4,50 @@ template: "page"
 ---
 
 ##<a href="https://paybit-platform-cksbpsgn9.now.sh/" target="_blank">Paybit website</a>
-> This is an PSD to HTML conversion project. I convert the sketch file to HTML/CSS.
-
 ![Paybit Platform](/media/paybit-platform.png)
+
+###About
+This is an PSD to HTML conversion project. I convert the sketch file to HTML/CSS.
+
+###Project Date
+May 2018 - June 2018
+
+###Tags
+tailwindcss, html, css3
+
+###Source on the github
 View the source code on the [github](https://github.com/nhulongctk35/paybit)
 
-##Firma.de
+##<a href="https://www.firma.de/" target="_blank">Firma.de</a>
+![Firma.de](/media/firma.de.png)
+###About
+This application provides a service solution to the problem that user is reading on the blog post. I built a list of question and integrated it 
+into the blog post, by answering some questions. the user will figure out the problem they are facing.
 
-##UI Library and Web Portal
-Who Would Win Bot is a Twitter bot that asks followers: in a fight between two random emoji, who would win? A Genie, or a potato? A bouquet, or a curling stone? View the source of GitHub or follow it on Twitter.
+###Project Date
+Jan 2018 - May 2018
 
-##Revegy
-Lucid is a Google Chrome extension that replaces the New Tab page with a simple notepad. It's useful for avoiding bad browsing habits and jotting down ideas or errands.
+###Tags
+Next.js, React, html, sass
 
-##Globis Student:
-Golden Hour is a place for me to post some of my favorite and best photographs. They're all shot at sunrise or sunset, and they're all available to download for personal, non-commercial use (such as your desktop or mobile wallpaper). Visit the site.
+##<a href="https://my.globis.ac.jp/" target="_blank">Globis Student</a>
+![Globis](/media/globis.png)
+###About
+Globis student is an online learning platform for student who want to studying **MBA** **Critical Thinking** 
 
-##Falcon
-Gifme is a personal clone/rip-off/emulation of Giphy, the popular gif search engine. Tired of Giphy's suboptimal Slack integration, I built Gifme as a web app and a Slack app to search my own massive gif collection. View the source on GitHub or visit the site.
+###Project Date
+April 2017 - Dec 2017
 
-##Insider
-Toast is a Sass/CSS grid system, designed to be highly customisable, extremely verbose, and simple-to-use out of the box. It uses no floats, no `first` or `last` classes, and allows nesting. Visit the site
+###Tags
+React, Bootstrap 3, sass, ruby on rails
+
+##<a href="https://www.revegy.com/" target="_blank">Revegy</a>
+![Revegy](/media/revegy.png)
+###About
+Revegy's sales effectiveness and relationship manager software simplify key account management with visualization and execution to maximize revenue.
+
+###Project Date
+March 2016 - Dec 2016
+
+###Tags
+Ember.js, JQuery, html, css
