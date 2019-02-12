@@ -3,7 +3,8 @@
 module.exports = {
   url: 'https://longntran.netlify.com',
   title: 'Blog by Long Tran',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle:
+    'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -34,7 +35,7 @@ module.exports = {
       email: 'nhulongctk10@gmail.com',
       telegram: 'longntran',
       twitter: 'nhulongctk10',
-      github: 'nhulongctk10'
+      github: 'nhulongctk35'
     }
   }
 };

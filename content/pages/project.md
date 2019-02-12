@@ -45,7 +45,10 @@ Globis student is an online learning platform for student who want to studying *
 April 2017 - Dec 2017
 
 ###Tags
-React, Bootstrap 3, sass, ruby on rails
+<a class="next" type="button">Next.js</a>
+<a class="react" type="button">React</a>
+<a class="html" type="button">Bootstrap 3</a>
+<a class="js" type="button">ruby on rails</a>
 
 ##<a href="https://www.revegy.com/" target="_blank">Revegy</a>
 ![Revegy](/media/revegy.png)
