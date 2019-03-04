@@ -3,7 +3,7 @@ title: "My Portfolio"
 template: "page"
 ---
 
-##<a href="https://paybit-platform-cksbpsgn9.now.sh/" target="_blank">Paybit website</a>
+##<a href="https://paybit-platform-mqg2pk9qq.now.sh/" target="_blank">Paybit website</a>
 ![Paybit Platform](/media/paybit-platform.png)
 
 ###About
