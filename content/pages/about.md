@@ -3,8 +3,8 @@ title: "About Long"
 template: "page"
 ---
 
-Hi there, I'm Long. I'm a software engineer in **Da Nang, Vietnam**. Currently, I'm a senior front-end engineer working for [NFQ Asia](https://www.nfq.asia/).
-I build front-end UIs with  **React**. A couple years ago it was *Angular 1.x*.
+Hi there, My name's Long. I'm a software engineer base in **Da Nang, Vietnam**. Currently, I'm working full-time for an awesome company named [NFQ Asia](https://www.nfq.asia/).
+I build front-end UIs with  **React**, **Vuejs**, **Nuxt.js**, **Next.js**. A couple years ago it was *Angular 1.x*. My daily jobs also invoke into back-end tasks. In back-end we use **Node.js**, **PHP** and **Java**.
  
 ![Long's Profile](/media/profile.jpeg)
  
