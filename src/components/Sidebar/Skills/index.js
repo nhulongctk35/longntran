@@ -29,6 +29,11 @@ const Skills = () => (
       </a>
     </li>
     <li>
+      <a type="button" className={'vue'}>
+        Nuxt.js
+      </a>
+    </li>
+    <li>
       <a type="button" className={'git'}>
         Git
       </a>
