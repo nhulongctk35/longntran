@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://longntran.netlify.com',
+  url: 'https://longtran.netlify.com',
   title: 'Blog by Long Tran',
   subtitle:
     'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-134267345-1',
+  googleAnalyticsId: 'UA-75861156-2',
   menu: [
     {
       label: 'Articles',
