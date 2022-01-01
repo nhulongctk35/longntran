@@ -3,6 +3,45 @@ title: "My Portfolio"
 template: "page"
 ---
 
+##<a href="https://www.storyroom.ai/" target="_blank">StoryRoom.ai</a>
+![Firma.de](/media/storyroom.png)
+###About
+StoryroomAI is a product that scrapes from many sources of data like Buzzsumo, Serpi, Social Searchers, AHrefs, Spyfu,... to get meaningful headlines, questions, influencers around trending keywords. 
+
+<a href="https://staging-new.storyroomapp.com/" target="_blank">StoryRoom App</a>
+
+It's backed by many microservices written in Node and Python. This is a cronjob/task queue / ETL heavy application with many databases like Postgres, Neo4J, DynamoDB.
+
+
+
+###Project Date
+Aug 2019 - Now
+
+###Tags
+<a class="vue" type="button">Vue</a>
+<a class="css" type="button">Nuxt.js</a>
+<a class="html" type="button">Tailwindcss</a>
+<a class="vue" type="button">Vue3</a>
+<a class="css" type="button">AWS</a>
+<a class="vue" type="button">Vite</a>
+<a class="vue" type="button">pinia</a>
+
+##<a href="https://www.shopware.com/en/products/shopware-6/" target="_blank">Shopware 6</a>
+![Firma.de](/media/shopware-shape.png)
+###About
+Shopware is the lead e-commerce platform in Germany, I helped build a Shopware theme base on Shopware 6.
+
+###Project Date
+Jan 2019 - Now
+
+###Tags
+<a class="css" type="button">Shopware</a>
+<a class="next" type="button">Vue</a>
+<a class="react" type="button">HTML</a>
+<a class="html" type="button">Bootstrap 4</a>
+<a class="css" type="button">scss</a>
+<a class="css" type="button">Symfony Twig</a>
+
 ##<a href="https://www.firma.de/" target="_blank">Firma.de</a>
 ![Firma.de](/media/firma.de.png)
 ###About
