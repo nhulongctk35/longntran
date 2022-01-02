@@ -13,7 +13,7 @@ module.exports = {
   menu: [
     {
       label: 'Projects',
-      path: '/pages/projects'
+      path: '/'
     },
     {
       label: 'About me',
