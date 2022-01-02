@@ -1,6 +1,16 @@
+@import '../../../assets/scss/variables';
+@import '../../../assets/scss/mixins';
+
 .tags {
   display: flex;
-  justify-content: flex-end;
   flex-wrap: wrap;
   list-style: none;
+  padding: 0;
+}
+
+
+@include breakpoint-sm {
+  .tags {
+    justify-content: flex-end;
+  }
 }

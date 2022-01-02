@@ -7,7 +7,7 @@
   &__list {
     display: flex;
     flex-flow: row wrap;
-    justify-content: flex-end;
+    // justify-content: flex-end;
     flex-grow: 0;
     flex-shrink: 0;
     list-style: none;
@@ -45,4 +45,12 @@
 
   }
 
+}
+
+@include breakpoint-sm {
+  .contacts {
+    &__list {
+      justify-content: flex-end;
+    }
+  }
 }

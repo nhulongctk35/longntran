@@ -20,8 +20,11 @@
     font-size: $typographic-base-font-size;
     @include line-height(1);
     @include margin(0, 0, 1);
-  }
 
+    h2:not(:first-child) {
+      @include margin-top(2);
+    }
+  }
 }
 
 @include breakpoint-sm {
