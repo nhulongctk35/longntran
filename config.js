@@ -27,7 +27,7 @@ module.exports = {
     contacts: {
       facebook: '#',
       rss: '',
-      linkedin: 'long-tran-950734111',
+      linkedin: 'nhulongctk10',
       codepen: '',
       youtube: '',
       soundcloud: '',
