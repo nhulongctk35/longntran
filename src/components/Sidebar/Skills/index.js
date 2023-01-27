@@ -4,6 +4,11 @@ import styles from './Skill.module.scss';
 const Skills = () => (
   <ul className={styles['tags']}>
     <li>
+      <a type="button" className="next">
+        Shopware 6
+      </a>
+    </li>
+    <li>
       <a type="button" className="react">
         React
       </a>
@@ -14,7 +19,7 @@ const Skills = () => (
       </a>
     </li>
     <li>
-      <a type="button" className={'next'}>
+      <a type="button" className="react">
         Next.js
       </a>
     </li>
