@@ -18,6 +18,10 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
+    },
+    {
+      label: "My CV",
+      path: '/Tran Nhu Long_CV_2023.pdf'
     }
   ],
   author: {
