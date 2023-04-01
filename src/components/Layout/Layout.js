@@ -34,6 +34,14 @@ const Layout = ({
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={metaImageUrl} />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-RFV4V48BFD"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-RFV4V48BFD');
+        </script>
       </Helmet>
       {children}
     </div>
