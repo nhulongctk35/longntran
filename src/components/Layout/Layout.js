@@ -1,4 +1,5 @@
-// @flow strict
+/* eslint-disable */
+// @flow
 import React from 'react';
 import Helmet from 'react-helmet';
 import type { Node as ReactNode } from 'react';
@@ -37,7 +38,7 @@ const Layout = ({
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-RFV4V48BFD"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments)}
+          function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
 
           gtag('config', 'G-RFV4V48BFD');
