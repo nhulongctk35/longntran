@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://longtran.netlify.com',
   title: 'Blog by Long Tran',
   pathPrefix: '/',
-  subtitle: '',
+  subtitle: `Hi there! I'm Long. An experienced front-end developer proficient in using Shopware 6, Vue, React, Next.js, Nuxt, CSS, Tailwind CSS, and Bootstrap. With my skills, I specialize in creating responsive and visually appealing web interfaces to enhance user experience. If you're interested in working together, please don't hesitate to contact me to discuss your project requirements.`,
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
